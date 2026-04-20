@@ -1,5 +1,11 @@
 # Changelog
 
+## Imperium v1.5.0
+
+### QoL Improvements
+- Adjusted search algorithm for Fire Exits to rely on entrance ID rather than on naming convention, improving compatibility with modded moons.
+- Adjusted Fire Exit teleportation to not teleport out of bounds.
+
 ## Imperium v1.4.0 - Bug Fixes and Ship Control Updates
 
 ### General Changes
