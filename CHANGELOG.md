@@ -1,5 +1,10 @@
 # Changelog
 
+## Imperium v1.5.0
+
+### QoL Improvements
+- Adjusted search algorithm for Main Entrance to rely on entrance ID rather than on naming convention, improving compatibility with modded moons.
+
 ## Imperium v1.4.0 - Bug Fixes and Ship Control Updates
 
 ### General Changes
